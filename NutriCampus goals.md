@@ -8,8 +8,8 @@ I also understand that college students do not necessarily know how to cook very
 I like being flexible, so we can incorporate some features that are based on the mood of the user, i.e. if they're craving fries, maybe suggest ordering out fries or making your own fries which are low calorie and similar to the restaurant fries. 
 Building a social community around the app that allows users to connect with other students and workers who share their interests and dietary preferences, eating food/showing off your own creations is useful.
 
-Dopamine is a powerful tool and reinforcing positive behavior through healthy interaction with food and following the meal plan, maybe gamification of certain elements can help. Maybe also include doing dishes as a rewarding behavior?
+Dopamine is a powerful tool and reinforcing positive behavior through healthy interaction with food and following the meal plan, maybe gamification of certain elements can help. 
 
-Provides a valuable service to a broad range of users, including fitness enthusiasts, people with chronic health conditions, parents of young children, people with food allergies or sensitivities, and travelers.
+Joke: Maybe also reward doing dishes
 
 These are subject to change as the idea evolves and obviously will change as we shift to a more concrete approach. 
